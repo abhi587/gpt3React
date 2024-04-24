@@ -33,6 +33,7 @@ const Footer = () => (
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
         <p>Crechterwoord K12 182 DK Alknjkcb</p>
+        <p>091d-132567</p>
         <p>https://www.linkedin.com/in/abhishek-kumar-prasad-195037208/</p>
       </div>
     </div>
